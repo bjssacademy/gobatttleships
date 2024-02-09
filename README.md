@@ -8,9 +8,9 @@ Each player has a grid which is 7*7
 
 Each player has 9 Battleships, each of which can occupy only one square on their grid
 
-Each player can place their battleships anywhere on this grid
+Each player can place their battleships anywhere on their grid
 
-Players take it in turns to pick any grid square reference
+After all the ships are placed, players take it in turns to pick any grid square reference on their opponent's grid to shoot at
 
 If the player hits a battleship, then it is sunk, and the turn passes to the opponent
 
